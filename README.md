@@ -3,11 +3,11 @@
 ## Removes all spaces from a string.
 
 ### Install
-> $ npm install @bamblehorse/tiny
+> $ npm install @naveen7892/tiny
 
 ### Usage
 ```
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@naveen7892/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
